@@ -1,0 +1,14 @@
+c:\Users\BATIKAN YILMAZ\Desktop\flightsim2\obj\Debug\net8.0-windows\flightsim2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\BATIKAN YILMAZ\Desktop\flightsim2\obj\Debug\net8.0-windows\flightsim2.AssemblyInfoInputs.cache
+c:\Users\BATIKAN YILMAZ\Desktop\flightsim2\obj\Debug\net8.0-windows\flightsim2.AssemblyInfo.cs
+c:\Users\BATIKAN YILMAZ\Desktop\flightsim2\obj\Debug\net8.0-windows\flightsim2.csproj.CoreCompileInputs.cache
+c:\Users\BATIKAN YILMAZ\Desktop\flightsim2\bin\Debug\net8.0-windows\flightsim2.exe
+c:\Users\BATIKAN YILMAZ\Desktop\flightsim2\bin\Debug\net8.0-windows\flightsim2.deps.json
+c:\Users\BATIKAN YILMAZ\Desktop\flightsim2\bin\Debug\net8.0-windows\flightsim2.runtimeconfig.json
+c:\Users\BATIKAN YILMAZ\Desktop\flightsim2\bin\Debug\net8.0-windows\flightsim2.dll
+c:\Users\BATIKAN YILMAZ\Desktop\flightsim2\bin\Debug\net8.0-windows\flightsim2.pdb
+c:\Users\BATIKAN YILMAZ\Desktop\flightsim2\obj\Debug\net8.0-windows\flightsim2.dll
+c:\Users\BATIKAN YILMAZ\Desktop\flightsim2\obj\Debug\net8.0-windows\refint\flightsim2.dll
+c:\Users\BATIKAN YILMAZ\Desktop\flightsim2\obj\Debug\net8.0-windows\flightsim2.pdb
+c:\Users\BATIKAN YILMAZ\Desktop\flightsim2\obj\Debug\net8.0-windows\flightsim2.genruntimeconfig.cache
+c:\Users\BATIKAN YILMAZ\Desktop\flightsim2\obj\Debug\net8.0-windows\ref\flightsim2.dll
